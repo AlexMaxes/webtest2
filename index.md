@@ -37,11 +37,12 @@ My Pages site will use the layout and styles from the Jekyll theme I have select
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) .
 
-def foo():
-    if not bar:
-        return True
+    def foo():
+        if not bar:
+            return True
         
 > keep learning!:wink:
+
 ![polar bear](https://github.com/AlexMaxes/Graph/blob/master/icebear.jpg)
 
 
