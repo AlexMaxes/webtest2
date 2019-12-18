@@ -43,6 +43,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
         
 > keep learning!:wink:
 
-![polar bear](https://github.com/AlexMaxes/Graph/blob/master/icebear.jpg)
+![Polar Bear](https://github.com/AlexMaxes/Graph/blob/master/icebear.jpg)
 
 
